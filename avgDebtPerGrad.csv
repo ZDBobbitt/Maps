@@ -1,52 +1,52 @@
-state,avgDebtPerGrad,,,,
-Utah,7545,,,,
-Wyoming,11420,,,,
-Arizona,11564,,,,
-New Mexico,11788,,,,
-California,12002,,,,
-Nevada,12549,,,,
-Oklahoma,12551,,,,
-Alaska,12790,,,,
-Florida,12915,,,,
-Hawaii,13027,,,,
-Washington,13104,,,,
-Louisiana,13442,,,,
-Arkansas,13995,,,,
-Colorado,14013,,,,
-Texas,14589,,,,
-North Carolina,14822,,,,
-Maryland,14990,,,,
-Tennessee,15302,,,,
-North Dakota,15444,,,,
-Alabama,15901,,,,
-Nebraska,15933,,,,
-Oregon,15991,,,,
-Georgia,16375,,,,
-Washington DC,16534,,,,
-Virginia,16535,,,,
-Indiana,17013,,,,
-Kansas,17255,,,,
-Kentucky,17327,,,,
-Mississippi,17693,,,,
-Idaho,17906,,,,
-Vermont,17912,,,,
-South Carolina,17918,,,,
-New Jersey,18331,,,,
-Maine,18418,,,,
-Montana,18689,,,,
-Illinois,18783,,,,
-Missouri,18992,,,,
-Massachusetts,19023,,,,
-Rhode Island,19078,,,,
-Iowa,19301,,,,
-Ohio,19339,,,,
-Michigan,19593,,,,
-New York,19946,,,,
-Wisconsin,20104,,,,
-West Virginia,21189,,,,
-Delaware,21259,,,,
-Connecticut,21348,,,,
-Minnesota,21665,,,,
-South Dakota,23641,,,,
-Pennsylvanica,24622,,,,
-New Hampshire,27167,,,,
+state,avgDebtPerGrad
+Utah,7545
+Wyoming,11420
+Arizona,11564
+New Mexico,11788
+California,12002
+Nevada,12549
+Oklahoma,12551
+Alaska,12790
+Florida,12915
+Hawaii,13027
+Washington,13104
+Louisiana,13442
+Arkansas,13995
+Colorado,14013
+Texas,14589
+North Carolina,14822
+Maryland,14990
+Tennessee,15302
+North Dakota,15444
+Alabama,15901
+Nebraska,15933
+Oregon,15991
+Georgia,16375
+Washington DC,16534
+Virginia,16535
+Indiana,17013
+Kansas,17255
+Kentucky,17327
+Mississippi,17693
+Idaho,17906
+Vermont,17912
+South Carolina,17918
+New Jersey,18331
+Maine,18418
+Montana,18689
+Illinois,18783
+Missouri,18992
+Massachusetts,19023
+Rhode Island,19078
+Iowa,19301
+Ohio,19339
+Michigan,19593
+New York,19946
+Wisconsin,20104
+West Virginia,21189
+Delaware,21259
+Connecticut,21348
+Minnesota,21665
+South Dakota,23641
+Pennsylvanica,24622
+New Hampshire,27167
