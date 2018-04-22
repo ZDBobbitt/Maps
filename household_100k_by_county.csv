@@ -1,4 +1,4 @@
-Id2,Geography,OneHundredPlus
+id,Geography,OneHundredPlus
 01001,"Autauga County, Alabama",20.8
 01003,"Baldwin County, Alabama",20.9
 01005,"Barbour County, Alabama",9.9
@@ -1801,7 +1801,7 @@ Id2,Geography,OneHundredPlus
 35007,"Colfax County, New Mexico",9.5
 35009,"Curry County, New Mexico",12.8
 35011,"De Baca County, New Mexico",16
-35013,"Doña Ana County, New Mexico",14.1
+35013,"DoÃ±a Ana County, New Mexico",14.1
 35015,"Eddy County, New Mexico",23.2
 35017,"Grant County, New Mexico",12.5
 35019,"Guadalupe County, New Mexico",8.1
