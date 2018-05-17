@@ -1801,7 +1801,7 @@ id,Geography,income100Plus,bachelorPlus
 35007,"Colfax County, New Mexico",32693,0.221
 35009,"Curry County, New Mexico",42170,0.197
 35011,"De Baca County, New Mexico",31197,0.095
-35013,"Doña Ana County, New Mexico",38636,0.275
+35013,"DoÃ±a Ana County, New Mexico",38636,0.275
 35015,"Eddy County, New Mexico",59625,0.17
 35017,"Grant County, New Mexico",38890,0.274
 35019,"Guadalupe County, New Mexico",26692,0.139
@@ -2924,7 +2924,7 @@ id,Geography,income100Plus,bachelorPlus
 51590,"Danville city, Virginia",33721,0.182
 51595,"Emporia city, Virginia",27169,0.153
 51600,"Fairfax city, Virginia",104065,0.547
-51610,"Falls Church city, Virginia",115244,0.802
+51610,"Falls Church city, Virginia",115244,0.80
 51620,"Franklin city, Virginia",38333,0.224
 51630,"Fredericksburg city, Virginia",53980,0.423
 51640,"Galax city, Virginia",31110,0.096
