@@ -100,7 +100,7 @@ id,Geography,medianRentAsPercentageofIncome
 04005,"Coconino County, Arizona",32.1
 04007,"Gila County, Arizona",28
 04009,"Graham County, Arizona",26.9
-04011,"Greenlee County, Arizona",10.0-
+04011,"Greenlee County, Arizona",10.0
 04012,"La Paz County, Arizona",26.5
 04013,"Maricopa County, Arizona",29.6
 04015,"Mohave County, Arizona",29.3
@@ -503,7 +503,7 @@ id,Geography,medianRentAsPercentageofIncome
 13233,"Polk County, Georgia",29.6
 13235,"Pulaski County, Georgia",32.2
 13237,"Putnam County, Georgia",32.8
-13239,"Quitman County, Georgia",50.0+
+13239,"Quitman County, Georgia",50.0
 13241,"Rabun County, Georgia",34.9
 13243,"Randolph County, Georgia",28.1
 13245,"Richmond County, Georgia",33
@@ -1110,7 +1110,7 @@ id,Geography,medianRentAsPercentageofIncome
 21231,"Wayne County, Kentucky",35.3
 21233,"Webster County, Kentucky",27.3
 21235,"Whitley County, Kentucky",30.3
-21237,"Wolfe County, Kentucky",50.0+
+21237,"Wolfe County, Kentucky",50.0
 21239,"Woodford County, Kentucky",26
 22001,"Acadia Parish, Louisiana",28.1
 22003,"Allen Parish, Louisiana",27
@@ -1801,7 +1801,7 @@ id,Geography,medianRentAsPercentageofIncome
 35007,"Colfax County, New Mexico",32.9
 35009,"Curry County, New Mexico",29.8
 35011,"De Baca County, New Mexico",26.4
-35013,"Doña Ana County, New Mexico",31.9
+35013,"DoÃ±a Ana County, New Mexico",31.9
 35015,"Eddy County, New Mexico",20.7
 35017,"Grant County, New Mexico",29.5
 35019,"Guadalupe County, New Mexico",26.9
@@ -1812,7 +1812,7 @@ id,Geography,medianRentAsPercentageofIncome
 35028,"Los Alamos County, New Mexico",20.9
 35029,"Luna County, New Mexico",28.1
 35031,"McKinley County, New Mexico",26.3
-35033,"Mora County, New Mexico",50.0+
+35033,"Mora County, New Mexico",50.0
 35035,"Otero County, New Mexico",28.2
 35037,"Quay County, New Mexico",24.8
 35039,"Rio Arriba County, New Mexico",35.2
@@ -1983,7 +1983,7 @@ id,Geography,medianRentAsPercentageofIncome
 37183,"Wake County, North Carolina",28
 37185,"Warren County, North Carolina",28.1
 37187,"Washington County, North Carolina",34.4
-37189,"Watauga County, North Carolina",50.0+
+37189,"Watauga County, North Carolina",50.0
 37191,"Wayne County, North Carolina",30.3
 37193,"Wilkes County, North Carolina",30.6
 37195,"Wilson County, North Carolina",31.6
@@ -2677,7 +2677,7 @@ id,Geography,medianRentAsPercentageofIncome
 48305,"Lynn County, Texas",29.8
 48307,"McCulloch County, Texas",29.7
 48309,"McLennan County, Texas",31.5
-48311,"McMullen County, Texas",10.0-
+48311,"McMullen County, Texas",10.0
 48313,"Madison County, Texas",25.2
 48315,"Marion County, Texas",36.1
 48317,"Martin County, Texas",30.4
@@ -2780,7 +2780,7 @@ id,Geography,medianRentAsPercentageofIncome
 49003,"Box Elder County, Utah",24.7
 49005,"Cache County, Utah",29.2
 49007,"Carbon County, Utah",25.4
-49009,"Daggett County, Utah",10.0-
+49009,"Daggett County, Utah",10.0
 49011,"Davis County, Utah",27.4
 49013,"Duchesne County, Utah",25.6
 49015,"Emery County, Utah",24.1
