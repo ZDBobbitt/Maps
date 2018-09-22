@@ -203,7 +203,6 @@ id,Geography,population,medianHouseholdIncome
 06031,"Kings County, California",150261,47241
 06033,"Lake County, California",64076,36132
 06035,"Lassen County, California",31945,51457
-06037,"Los Angeles County, California",10057155,57952
 06039,"Madera County, California",153366,45742
 06041,"Marin County, California",259358,100310
 06043,"Mariposa County, California",17645,49265
@@ -1801,7 +1800,7 @@ id,Geography,population,medianHouseholdIncome
 35007,"Colfax County, New Mexico",12716,32693
 35009,"Curry County, New Mexico",50544,42170
 35011,"De Baca County, New Mexico",1977,31197
-35013,"Doña Ana County, New Mexico",213825,38636
+35013,"DoÃ±a Ana County, New Mexico",213825,38636
 35015,"Eddy County, New Mexico",56369,59625
 35017,"Grant County, New Mexico",28879,38890
 35019,"Guadalupe County, New Mexico",4469,26692
