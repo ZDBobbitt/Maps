@@ -1,0 +1,152 @@
+id,Geography,population,medianHouseholdIncome
+01089,"Madison County, Alabama",349973,60150
+01115,"St. Clair County, Alabama",86576,54042
+01117,"Shelby County, Alabama",205951,72310
+02016,"Aleutians West Census Area, Alaska",5714,86964
+02060,"Bristol Bay Borough, Alaska",942,88000
+02110,"Juneau City and Borough, Alaska",32524,87436
+04011,"Greenlee County, Arizona",9224,51813
+04013,"Maricopa County, Arizona",4088549,55676
+04021,"Pinal County, Arizona",397604,51190
+05007,"Benton County, Arkansas",245231,59016
+05085,"Lonoke County, Arkansas",71279,56156
+05125,"Saline County, Arkansas",115577,57632
+06041,"Marin County, California",259358,100310
+06081,"San Mateo County, California",754748,98546
+06085,"Santa Clara County, California",1885056,101173
+08014,"Broomfield County, Colorado",62449,83334
+08035,"Douglas County, Colorado",314238,105759
+08039,"Elbert County, Colorado",24225,87288
+09001,"Fairfield County, Connecticut",941618,86670
+09007,"Middlesex County, Connecticut",164438,79837
+09013,"Tolland County, Connecticut",151689,80129
+10001,"Kent County, Delaware",171474,55184
+10003,"New Castle County, Delaware",551997,66283
+10005,"Sussex County, Delaware",211224,54218
+11001,"District of Columbia, District of Columbia",659009,72935
+12087,"Monroe County, Florida",77150,60303
+12109,"St. Johns County, Florida",218362,69523
+12113,"Santa Rosa County, Florida",163903,60652
+13113,"Fayette County, Georgia",109495,81689
+13117,"Forsyth County, Georgia",203841,91842
+13219,"Oconee County, Georgia",35071,75946
+15003,"Honolulu County, Hawaii",986999,77161
+15007,"Kauai County, Hawaii",70447,68224
+15009,"Maui County, Hawaii",162456,68777
+16001,"Ada County, Idaho",425798,58099
+16013,"Blaine County, Idaho",21427,58086
+16081,"Teton County, Idaho",10437,58173
+17043,"DuPage County, Illinois",930514,81521
+17093,"Kendall County, Illinois",121452,85736
+17097,"Lake County, Illinois",702890,79886
+18011,"Boone County, Indiana",61884,72774
+18057,"Hamilton County, Indiana",303042,87782
+18063,"Hendricks County, Indiana",155817,73042
+19049,"Dallas County, Iowa",78074,78918
+19129,"Mills County, Iowa",14841,66203
+19181,"Warren County, Iowa",48170,67090
+20091,"Johnson County, Kansas",572428,78186
+20103,"Leavenworth County, Kansas",78785,66046
+20121,"Miami County, Kansas",32787,63353
+21015,"Boone County, Kentucky",125656,69165
+21185,"Oldham County, Kentucky",63876,86324
+21215,"Spencer County, Kentucky",17798,65700
+22005,"Ascension Parish, Louisiana",117009,71752
+22023,"Cameron Parish, Louisiana",6739,65679
+22103,"St. Tammany Parish, Louisiana",246269,63686
+23005,"Cumberland County, Maine",288204,61902
+23023,"Sagadahoc County, Maine",35134,55766
+23031,"York County, Maine",200536,59132
+24009,"Calvert County, Maryland",90527,96808
+24027,"Howard County, Maryland",308447,113800
+24031,"Montgomery County, Maryland",1026371,100352
+25017,"Middlesex County, Massachusetts",1567610,89019
+25019,"Nantucket County, Massachusetts",10694,89428
+25021,"Norfolk County, Massachusetts",691218,90226
+26037,"Clinton County, Michigan",77245,62646
+26093,"Livingston County, Michigan",185841,76764
+26125,"Oakland County, Michigan",1235215,69850
+27019,"Carver County, Minnesota",97143,88638
+27139,"Scott County, Minnesota",139490,90198
+27163,"Washington County, Minnesota",248745,86689
+28033,"DeSoto County, Mississippi",170890,60111
+28089,"Madison County, Mississippi",101791,65924
+28121,"Rankin County, Mississippi",147930,59370
+29047,"Clay County, Missouri",233135,63702
+29165,"Platte County, Missouri",94970,70879
+29183,"St. Charles County, Missouri",379856,75603
+30043,"Jefferson County, Montana",11601,62939
+30083,"Richland County, Montana",11392,65638
+30095,"Stillwater County, Montana",9342,59603
+31025,"Cass County, Nebraska",25463,65385
+31153,"Sarpy County, Nebraska",172460,72269
+31177,"Washington County, Nebraska",20338,65565
+32007,"Elko County, Nevada",52029,74672
+32011,"Eureka County, Nevada",1730,70000
+32015,"Lander County, Nevada",5907,78077
+33011,"Hillsborough County, New Hampshire",404948,73189
+33013,"Merrimack County, New Hampshire",147715,67181
+33015,"Rockingham County, New Hampshire",300365,82398
+34019,"Hunterdon County, New Jersey",125708,108177
+34027,"Morris County, New Jersey",498215,102798
+34035,"Somerset County, New Jersey",331686,102405
+35015,"Eddy County, New Mexico",56369,59625
+35028,"Los Alamos County, New Mexico",17895,105902
+35043,"Sandoval County, New Mexico",138117,60158
+36059,"Nassau County, New York",1356801,102044
+36079,"Putnam County, New York",99408,97606
+36103,"Suffolk County, New York",1498130,90128
+37135,"Orange County, North Carolina",139807,61130
+37179,"Union County, North Carolina",217614,67194
+37183,"Wake County, North Carolina",998576,70620
+38053,"McKenzie County, North Dakota",10718,78179
+38089,"Stark County, North Dakota",29837,76817
+38105,"Williams County, North Dakota",31643,90080
+39041,"Delaware County, Ohio",188996,94234
+39055,"Geauga County, Ohio",94020,74165
+39165,"Warren County, Ohio",222184,76200
+40017,"Canadian County, Oklahoma",129571,66664
+40073,"Kingfisher County, Oklahoma",15392,62912
+40131,"Rogers County, Oklahoma",89970,59828
+41005,"Clackamas County, Oregon",394967,68915
+41051,"Multnomah County, Oregon",778193,57449
+41067,"Washington County, Oregon",564088,69743
+42017,"Bucks County, Pennsylvania",626220,79559
+42029,"Chester County, Pennsylvania",512028,88995
+42091,"Montgomery County, Pennsylvania",815876,81902
+44001,"Bristol County, Rhode Island",49228,73096
+44005,"Newport County, Rhode Island",82714,71347
+44009,"Washington County, Rhode Island",126319,74302
+45013,"Beaufort County, South Carolina",175316,59227
+45035,"Dorchester County, South Carolina",148517,56345
+45091,"York County, South Carolina",245606,56482
+46045,"Edmunds County, South Dakota",4000,62467
+46083,"Lincoln County, South Dakota",51396,77455
+46127,"Union County, South Dakota",14842,63890
+47165,"Sumner County, Tennessee",172786,58972
+47187,"Williamson County, Tennessee",205645,100140
+47189,"Wilson County, Tennessee",125616,63426
+48085,"Collin County, Texas",886633,86188
+48157,"Fort Bend County, Texas",683756,91152
+48397,"Rockwall County, Texas",88010,89161
+49009,"Daggett County, Utah",751,75938
+49029,"Morgan County, Utah",10645,80865
+49043,"Summit County, Utah",39009,91470
+50001,"Addison County, Vermont",36926,61020
+50007,"Chittenden County, Vermont",160510,66414
+50013,"Grand Isle County, Vermont",6945,64295
+51059,"Fairfax County, Virginia",1132887,114329
+51107,"Loudoun County, Virginia",362435,125672
+51610,"Falls Church city, Virginia",13597,115244
+53033,"King County, Washington",2079550,78800
+53035,"Kitsap County, Washington",257488,65017
+53061,"Snohomish County, Washington",758649,73528
+54003,"Berkeley County, West Virginia",110173,57148
+54037,"Jefferson County, West Virginia",55531,69753
+54079,"Putnam County, West Virginia",56743,56640
+55089,"Ozaukee County, Wisconsin",87625,78415
+55109,"St. Croix County, Wisconsin",86726,73743
+55133,"Waukesha County, Wisconsin",395377,78268
+56005,"Campbell County, Wyoming",48473,80822
+56035,"Sublette County, Wyoming",10032,76004
+56039,"Teton County, Wyoming",22623,75594
