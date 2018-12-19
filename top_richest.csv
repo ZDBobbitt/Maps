@@ -1,0 +1,152 @@
+state,id,Geography,county,population,medianHouseholdIncome
+ Virginia,51107,"Loudoun County, Virginia",Loudoun County,362435,125672
+ Virginia,51610,"Falls Church city, Virginia",Falls Church city,13597,115244
+ Virginia,51059,"Fairfax County, Virginia",Fairfax County,1132887,114329
+ Maryland,24027,"Howard County, Maryland",Howard County,308447,113800
+ Maryland,24031,"Montgomery County, Maryland",Montgomery County,1026371,100352
+ Maryland,24009,"Calvert County, Maryland",Calvert County,90527,96808
+ New Jersey,34019,"Hunterdon County, New Jersey",Hunterdon County,125708,108177
+ New Jersey,34027,"Morris County, New Jersey",Morris County,498215,102798
+ New Jersey,34035,"Somerset County, New Jersey",Somerset County,331686,102405
+ New Mexico,35028,"Los Alamos County, New Mexico",Los Alamos County,17895,105902
+ New Mexico,35043,"Sandoval County, New Mexico",Sandoval County,138117,60158
+ New Mexico,35015,"Eddy County, New Mexico",Eddy County,56369,59625
+ Colorado,8035,"Douglas County, Colorado",Douglas County,314238,105759
+ Colorado,8039,"Elbert County, Colorado",Elbert County,24225,87288
+ Colorado,8014,"Broomfield County, Colorado",Broomfield County,62449,83334
+ New York,36059,"Nassau County, New York",Nassau County,1356801,102044
+ New York,36079,"Putnam County, New York",Putnam County,99408,97606
+ New York,36103,"Suffolk County, New York",Suffolk County,1498130,90128
+ California,6085,"Santa Clara County, California",Santa Clara County,1885056,101173
+ California,6041,"Marin County, California",Marin County,259358,100310
+ California,6081,"San Mateo County, California",San Mateo County,754748,98546
+ Tennessee,47187,"Williamson County, Tennessee",Williamson County,205645,100140
+ Tennessee,47189,"Wilson County, Tennessee",Wilson County,125616,63426
+ Tennessee,47165,"Sumner County, Tennessee",Sumner County,172786,58972
+ Ohio,39041,"Delaware County, Ohio",Delaware County,188996,94234
+ Ohio,39165,"Warren County, Ohio",Warren County,222184,76200
+ Ohio,39055,"Geauga County, Ohio",Geauga County,94020,74165
+ Georgia,13117,"Forsyth County, Georgia",Forsyth County,203841,91842
+ Georgia,13113,"Fayette County, Georgia",Fayette County,109495,81689
+ Georgia,13219,"Oconee County, Georgia",Oconee County,35071,75946
+ Utah,49043,"Summit County, Utah",Summit County,39009,91470
+ Utah,49029,"Morgan County, Utah",Morgan County,10645,80865
+ Utah,49009,"Daggett County, Utah",Daggett County,751,75938
+ Texas,48157,"Fort Bend County, Texas",Fort Bend County,683756,91152
+ Texas,48397,"Rockwall County, Texas",Rockwall County,88010,89161
+ Texas,48085,"Collin County, Texas",Collin County,886633,86188
+ Massachusetts,25021,"Norfolk County, Massachusetts",Norfolk County,691218,90226
+ Massachusetts,25019,"Nantucket County, Massachusetts",Nantucket County,10694,89428
+ Massachusetts,25017,"Middlesex County, Massachusetts",Middlesex County,1567610,89019
+ Minnesota,27139,"Scott County, Minnesota",Scott County,139490,90198
+ Minnesota,27019,"Carver County, Minnesota",Carver County,97143,88638
+ Minnesota,27163,"Washington County, Minnesota",Washington County,248745,86689
+ North Dakota,38105,"Williams County, North Dakota",Williams County,31643,90080
+ North Dakota,38053,"McKenzie County, North Dakota",McKenzie County,10718,78179
+ North Dakota,38089,"Stark County, North Dakota",Stark County,29837,76817
+ Pennsylvania,42029,"Chester County, Pennsylvania",Chester County,512028,88995
+ Pennsylvania,42091,"Montgomery County, Pennsylvania",Montgomery County,815876,81902
+ Pennsylvania,42017,"Bucks County, Pennsylvania",Bucks County,626220,79559
+ Alaska,2060,"Bristol Bay Borough, Alaska",Bristol Bay Borough,942,88000
+ Alaska,2110,"Juneau City and Borough, Alaska",Juneau City and Borough,32524,87436
+ Alaska,2016,"Aleutians West Census Area, Alaska",Aleutians West Census Area,5714,86964
+ Indiana,18057,"Hamilton County, Indiana",Hamilton County,303042,87782
+ Indiana,18063,"Hendricks County, Indiana",Hendricks County,155817,73042
+ Indiana,18011,"Boone County, Indiana",Boone County,61884,72774
+ Connecticut,9001,"Fairfield County, Connecticut",Fairfield County,941618,86670
+ Connecticut,9013,"Tolland County, Connecticut",Tolland County,151689,80129
+ Connecticut,9007,"Middlesex County, Connecticut",Middlesex County,164438,79837
+ Kentucky,21185,"Oldham County, Kentucky",Oldham County,63876,86324
+ Kentucky,21015,"Boone County, Kentucky",Boone County,125656,69165
+ Kentucky,21215,"Spencer County, Kentucky",Spencer County,17798,65700
+ Illinois,17093,"Kendall County, Illinois",Kendall County,121452,85736
+ Illinois,17043,"DuPage County, Illinois",DuPage County,930514,81521
+ Illinois,17097,"Lake County, Illinois",Lake County,702890,79886
+ New Hampshire,33015,"Rockingham County, New Hampshire",Rockingham County,300365,82398
+ New Hampshire,33011,"Hillsborough County, New Hampshire",Hillsborough County,404948,73189
+ New Hampshire,33013,"Merrimack County, New Hampshire",Merrimack County,147715,67181
+ Wyoming,56005,"Campbell County, Wyoming",Campbell County,48473,80822
+ Wyoming,56035,"Sublette County, Wyoming",Sublette County,10032,76004
+ Wyoming,56039,"Teton County, Wyoming",Teton County,22623,75594
+ Iowa,19049,"Dallas County, Iowa",Dallas County,78074,78918
+ Iowa,19181,"Warren County, Iowa",Warren County,48170,67090
+ Iowa,19129,"Mills County, Iowa",Mills County,14841,66203
+ Washington,53033,"King County, Washington",King County,2079550,78800
+ Washington,53061,"Snohomish County, Washington",Snohomish County,758649,73528
+ Washington,53035,"Kitsap County, Washington",Kitsap County,257488,65017
+ Wisconsin,55089,"Ozaukee County, Wisconsin",Ozaukee County,87625,78415
+ Wisconsin,55133,"Waukesha County, Wisconsin",Waukesha County,395377,78268
+ Wisconsin,55109,"St. Croix County, Wisconsin",St. Croix County,86726,73743
+ Kansas,20091,"Johnson County, Kansas",Johnson County,572428,78186
+ Kansas,20103,"Leavenworth County, Kansas",Leavenworth County,78785,66046
+ Kansas,20121,"Miami County, Kansas",Miami County,32787,63353
+ Nevada,32015,"Lander County, Nevada",Lander County,5907,78077
+ Nevada,32007,"Elko County, Nevada",Elko County,52029,74672
+ Nevada,32011,"Eureka County, Nevada",Eureka County,1730,70000
+ South Dakota,46083,"Lincoln County, South Dakota",Lincoln County,51396,77455
+ South Dakota,46127,"Union County, South Dakota",Union County,14842,63890
+ South Dakota,46045,"Edmunds County, South Dakota",Edmunds County,4000,62467
+ Hawaii,15003,"Honolulu County, Hawaii",Honolulu County,986999,77161
+ Hawaii,15009,"Maui County, Hawaii",Maui County,162456,68777
+ Hawaii,15007,"Kauai County, Hawaii",Kauai County,70447,68224
+ Michigan,26093,"Livingston County, Michigan",Livingston County,185841,76764
+ Michigan,26125,"Oakland County, Michigan",Oakland County,1235215,69850
+ Michigan,26037,"Clinton County, Michigan",Clinton County,77245,62646
+ Missouri,29183,"St. Charles County, Missouri",St. Charles County,379856,75603
+ Missouri,29165,"Platte County, Missouri",Platte County,94970,70879
+ Missouri,29047,"Clay County, Missouri",Clay County,233135,63702
+ Rhode Island,44009,"Washington County, Rhode Island",Washington County,126319,74302
+ Rhode Island,44001,"Bristol County, Rhode Island",Bristol County,49228,73096
+ Rhode Island,44005,"Newport County, Rhode Island",Newport County,82714,71347
+ District of Columbia,11001,"District of Columbia, District of Columbia",District of Columbia,659009,72935
+ Alabama,1117,"Shelby County, Alabama",Shelby County,205951,72310
+ Alabama,1089,"Madison County, Alabama",Madison County,349973,60150
+ Alabama,1115,"St. Clair County, Alabama",St. Clair County,86576,54042
+ Nebraska,31153,"Sarpy County, Nebraska",Sarpy County,172460,72269
+ Nebraska,31177,"Washington County, Nebraska",Washington County,20338,65565
+ Nebraska,31025,"Cass County, Nebraska",Cass County,25463,65385
+ Louisiana,22005,"Ascension Parish, Louisiana",Ascension Parish,117009,71752
+ Louisiana,22023,"Cameron Parish, Louisiana",Cameron Parish,6739,65679
+ Louisiana,22103,"St. Tammany Parish, Louisiana",St. Tammany Parish,246269,63686
+ North Carolina,37183,"Wake County, North Carolina",Wake County,998576,70620
+ North Carolina,37179,"Union County, North Carolina",Union County,217614,67194
+ North Carolina,37135,"Orange County, North Carolina",Orange County,139807,61130
+ West Virginia,54037,"Jefferson County, West Virginia",Jefferson County,55531,69753
+ West Virginia,54003,"Berkeley County, West Virginia",Berkeley County,110173,57148
+ West Virginia,54079,"Putnam County, West Virginia",Putnam County,56743,56640
+ Oregon,41067,"Washington County, Oregon",Washington County,564088,69743
+ Oregon,41005,"Clackamas County, Oregon",Clackamas County,394967,68915
+ Oregon,41051,"Multnomah County, Oregon",Multnomah County,778193,57449
+ Florida,12109,"St. Johns County, Florida",St. Johns County,218362,69523
+ Florida,12113,"Santa Rosa County, Florida",Santa Rosa County,163903,60652
+ Florida,12087,"Monroe County, Florida",Monroe County,77150,60303
+ Oklahoma,40017,"Canadian County, Oklahoma",Canadian County,129571,66664
+ Oklahoma,40073,"Kingfisher County, Oklahoma",Kingfisher County,15392,62912
+ Oklahoma,40131,"Rogers County, Oklahoma",Rogers County,89970,59828
+ Vermont,50007,"Chittenden County, Vermont",Chittenden County,160510,66414
+ Vermont,50013,"Grand Isle County, Vermont",Grand Isle County,6945,64295
+ Vermont,50001,"Addison County, Vermont",Addison County,36926,61020
+ Delaware,10003,"New Castle County, Delaware",New Castle County,551997,66283
+ Delaware,10001,"Kent County, Delaware",Kent County,171474,55184
+ Delaware,10005,"Sussex County, Delaware",Sussex County,211224,54218
+ Mississippi,28089,"Madison County, Mississippi",Madison County,101791,65924
+ Mississippi,28033,"DeSoto County, Mississippi",DeSoto County,170890,60111
+ Mississippi,28121,"Rankin County, Mississippi",Rankin County,147930,59370
+ Montana,30083,"Richland County, Montana",Richland County,11392,65638
+ Montana,30043,"Jefferson County, Montana",Jefferson County,11601,62939
+ Montana,30095,"Stillwater County, Montana",Stillwater County,9342,59603
+ Maine,23005,"Cumberland County, Maine",Cumberland County,288204,61902
+ Maine,23031,"York County, Maine",York County,200536,59132
+ Maine,23023,"Sagadahoc County, Maine",Sagadahoc County,35134,55766
+ South Carolina,45013,"Beaufort County, South Carolina",Beaufort County,175316,59227
+ South Carolina,45091,"York County, South Carolina",York County,245606,56482
+ South Carolina,45035,"Dorchester County, South Carolina",Dorchester County,148517,56345
+ Arkansas,5007,"Benton County, Arkansas",Benton County,245231,59016
+ Arkansas,5125,"Saline County, Arkansas",Saline County,115577,57632
+ Arkansas,5085,"Lonoke County, Arkansas",Lonoke County,71279,56156
+ Idaho,16081,"Teton County, Idaho",Teton County,10437,58173
+ Idaho,16001,"Ada County, Idaho",Ada County,425798,58099
+ Idaho,16013,"Blaine County, Idaho",Blaine County,21427,58086
+ Arizona,4013,"Maricopa County, Arizona",Maricopa County,4088549,55676
+ Arizona,4011,"Greenlee County, Arizona",Greenlee County,9224,51813
+ Arizona,4021,"Pinal County, Arizona",Pinal County,397604,51190
